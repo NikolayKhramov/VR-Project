@@ -1,3 +1,3 @@
-# PazzelPlatforms
+# Architecture Explorer
 
-Online multiplayer game. Client-Server. Nice-looking and "smart" user interface. Realization - C++. 
+VR project. Realization - C++. 
